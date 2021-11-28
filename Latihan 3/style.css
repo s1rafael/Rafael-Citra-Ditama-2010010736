@@ -1,0 +1,56 @@
+h1{
+color: orange;
+font-family: "Segoe UI";
+}
+.kotak1{
+padding: 50px; /*memberi jarak dalam pada kotak*/
+width: 50px; /*membuat lebar kotak 100px*/
+height: 25px; /*membuat tinggi kotak 100px*/
+color: #fff; /*memberi warna pada text / font */
+margin: 10px; /* memberi jarak luar kotak */
+background: #0288d1; /*memberi warna kotak */
+float: left; /*membuat kotak jadi kesamping kiri*/
+font-size: 15px;
+}
+.kotak2{
+    padding: 50px;
+    width: 50px; 
+    height: 25px;
+    color: #fff; 
+    margin: 10px;
+    background: #0da15c;
+    float: left;
+    font-size: 15px;
+    }
+    
+.kotak3{
+    padding: 50px;
+    width: 50px; 
+    height: 25px;
+    color: #fff; 
+    margin: 10px;
+    background: #ee32bf;
+    float: left;
+    font-size: 15px;
+    }
+
+.kotak4{
+    padding: 50px;
+    width: 50px; 
+    height: 25px;
+    color: #fff; 
+    margin: 10px;
+    background: #eeeb32;
+    float: left;
+    font-size: 15px;
+    }
+#kotak5 {
+padding: 50px;
+width: 50px;
+color: #666666;
+height: 25px;
+margin: 10px;
+background: orange;
+float: left;
+font-size: 15px;
+}
